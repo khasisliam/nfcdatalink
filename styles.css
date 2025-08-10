@@ -84,7 +84,7 @@ main {
     padding: 15px;
     background: #f7fafc;
     border-radius: 12px;
-    border-left: 4px solid #e366ea;
+    border-left: 4px solid #667eea;
 }
 .label {
     font-weight: 600;
@@ -345,7 +345,7 @@ footer {
         color: #e2e8f0;
     }
     
-    .info-item and info-item1 {
+    .info-item and .info-item1 {
         background: #4a5568;
     }
     
