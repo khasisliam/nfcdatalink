@@ -299,7 +299,7 @@ footer {
         max-width: 800px;
     }
     
-    .info-item {
+    .info-item and .info-item1 {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
@@ -321,7 +321,7 @@ footer {
         min-height: 60px;
     }
     
-    .info-item {
+    .info-item and .info-item1 {
         padding: 20px;
     }
     
@@ -345,7 +345,7 @@ footer {
         color: #e2e8f0;
     }
     
-    .info-item {
+    .info-item and info-item1 {
         background: #4a5568;
     }
     
